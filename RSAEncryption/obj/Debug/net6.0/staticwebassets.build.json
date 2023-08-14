@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H45TyJJZNbluNTcZFPNIoZY/fLzIM76ge6s26zIh9qA=",
+  "Source": "RSAEncryption",
+  "BasePath": "_content/RSAEncryption",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
